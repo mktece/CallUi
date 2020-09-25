@@ -167,7 +167,7 @@ class _VoiceCallPageState extends State<VoiceCallPage> {
                   Icons.call_end,
                   color: Colors.red,
                 ),
-                backgroundColor: Colors.red[100],
+                backgroundColor: Colors.red[90],
               )
             ],
           ),
